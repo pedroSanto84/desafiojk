@@ -2,7 +2,7 @@
   <div class="container mb-3">
     <div class="d-flex mb-3">
       <div class="mr-auto">
-        <h3>Resutado da pesquisa "{{ reformattedSearchString }}"</h3>
+        <h3>Resultado da pesquisa "{{ reformattedSearchString }}"</h3>
       </div>
       <div class="btn-group ml-auto" role="group">
         <button

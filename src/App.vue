@@ -35,10 +35,10 @@ export default {
         part: "snippet",
         type: "video",
         order: "viewCount",
-        maxResults: 5,
+        maxResults: 10,
 
         q: "",
-        key: "AIzaSyCSNwtCKaa5UaYLmPa4o_43F40Y49xWWwk",
+        key: "AIzaSyCo5mboWbjqi2TItaXW6v2wH7rWYQJDFtk",
         prevPageToken: "",
         nextPageToken: "",
       },
